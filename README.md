@@ -32,6 +32,9 @@ cd ai-finance-assistant
 pip install -r requirements.txt
 python app.py
 
+## DEMO VIDEO
+https://drive.google.com/file/d/1Pp1ZsZyhKjgj6UD0kGri5bxBSG4FAkds/view?usp=sharing
+
 ## 👨‍💻 Author
 
 Lloyd Joseph Jose  
